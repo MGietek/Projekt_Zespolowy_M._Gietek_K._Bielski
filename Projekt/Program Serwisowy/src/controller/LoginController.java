@@ -69,7 +69,7 @@ public class LoginController implements Initializable  {
 			
 				Scene scene = new Scene(parent);
 				Stage stage = new Stage();
-		        stage.setTitle("Zajebisty program serwisowy");
+		        stage.setTitle("Program serwisowy");
 				stage.setScene(scene);
 				stage.show();
 				
